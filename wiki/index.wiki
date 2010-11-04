@@ -1,0 +1,30 @@
+= History =
+
+2010/11/02 release project, move from [http://diew.multiply.com/journal/item/95 multiply]
+
+= Introduction =
+
+NPC (Non-Player Character) in Ragnarok Online is written by script language.
+
+This language is not complex but if you write to many lines, You may in trouble.
+
+Syntax hilighter and Autocomplete can help you to write npc-script.
+
+With color hilighter and code template, you can release you npc faster!
+
+= Guideline =
+
+  * Read npc-script command.
+    * http://www.eathena.ws/wiki/index.php/Category:Script_Command
+    * http://www.eathena.ws/wiki/index.php?title=Category:Script_Command&from=Unitskillusepos
+
+  * Read how to make syntax hilighter and autocomplete.
+    * http://editplus.info/wiki/Syntax_file_format
+    * http://editplus.info/wiki/Auto-completion_file_format
+
+  * Development phase
+
+= Credit =
+  * Ragnarok Online - http://www.ragnarokonline.com
+  * eAthena wiki - http://www.eathena.ws/wiki/index.php/Main_Page
+  * EditPlus wiki - http://editplus.info/wiki/Main_Page
