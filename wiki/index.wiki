@@ -1,3 +1,6 @@
+#summary overview of this project
+#labels Featured,Phase-Requirements
+
 = History =
 
 2010/11/02 release project, move from [http://diew.multiply.com/journal/item/95 multiply]
