@@ -13,7 +13,7 @@ This language is not complex but if you write to many lines, You may in trouble.
 
 Syntax hilighter and Autocomplete can help you to write npc-script.
 
-With color hilighter and code template, you can release you npc faster!
+With color hilight and code template, you can release you npc faster!
 
 = Guideline =
 
