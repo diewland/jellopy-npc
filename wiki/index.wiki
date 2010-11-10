@@ -18,6 +18,8 @@ With color hilighter and code template, you can release you npc faster!
 = Guideline =
 
   * Read npc-script command.
+    * http://svn.eathena.ws/svn/ea/trunk/doc/script_commands.txt
+    * http://eathena.ws/wiki/index.php/Scripting
     * http://www.eathena.ws/wiki/index.php/Category:Script_Command
     * http://www.eathena.ws/wiki/index.php?title=Category:Script_Command&from=Unitskillusepos
 
