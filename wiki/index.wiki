@@ -32,5 +32,6 @@ With color hilight and code template, you can release you npc faster!
 == Reference ==
   * Ragnarok Online - http://www.ragnarokonline.com
   * eAthena wiki - http://www.eathena.ws/wiki/index.php/Main_Page
-  * EditPlus wiki - http://editplus.info/wiki/Main_Page
-  * NPC Sprite ID - http://kalen.s79.xrea.com/npc/npce.shtml
+  * editPlus wiki - http://editplus.info/wiki/Main_Page
+  * NPC List 1 - http://kalen.s79.xrea.com/npc/npce.shtml
+  * NPC List 2 - http://www.dotalux.com/ro/npclist/
