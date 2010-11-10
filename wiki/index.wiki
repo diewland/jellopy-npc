@@ -1,11 +1,11 @@
 #summary project overview
 #labels Featured,Phase-Requirements
 
-= History =
+== History ==
 
 2010/11/02 release project, move from [http://diew.multiply.com/journal/item/95 multiply]
 
-= Introduction =
+== Introduction ==
 
 NPC (Non-Player Character) in Ragnarok Online is written by script language.
 
@@ -15,7 +15,7 @@ Syntax hilighter and Autocomplete can help you to write npc-script.
 
 With color hilight and code template, you can release you npc faster!
 
-= Guideline =
+== Guideline ==
 
   * Read npc-script command.
     * http://svn.eathena.ws/svn/ea/trunk/doc/script_commands.txt
@@ -29,7 +29,7 @@ With color hilight and code template, you can release you npc faster!
 
   * Development phase
 
-= Credit =
+== Credit ==
   * Ragnarok Online - http://www.ragnarokonline.com
   * eAthena wiki - http://www.eathena.ws/wiki/index.php/Main_Page
   * EditPlus wiki - http://editplus.info/wiki/Main_Page
