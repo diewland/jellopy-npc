@@ -1,4 +1,4 @@
-#summary eAthena script command overview
+#summary eAthena script command
 
 == eAthena Script command Overview ==
 
