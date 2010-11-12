@@ -47,3 +47,10 @@
   * arrays
   * operator
   * label
+    * event label
+      * OnClock, OnMinute, OnHour, ..
+      * OnInit, OnInterInit, OnInterIfInnitOnce
+      * OnAgiStart, OnAgiEnd, OnAgiInit
+      * ...
+      * Custom event
+  * Scripting commands and functions
