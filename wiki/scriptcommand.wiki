@@ -68,6 +68,20 @@
       * callfunc / callsub / getarg(n)
       * return 
       * if / while / do-while / for
-      * setarray / cleararray / copyarray / deletearray
+      * setarray / cleararray / copyarray / deletearray / getarraysize /  getelementofarray
+      * getstrlen
     * retrieving information
-      * page 29
+      * strcharinfo
+      * strnpcinfo
+      * readparam
+      * getcharid / getXXXid
+      * getpartyname / getpartymember / getpartyleader
+      * getlook / setlook
+      * getsavepoint
+      * getguildname / getguildmaster / getguildmasterid / getcastlename / getgdskilllv / ...
+      * getskilllv / getskilllist / getpetinfo / gethominfo / petstat
+      * getmosterinfo / getmobdrops / getmapmobs
+      * skillpointcount
+      * getscrate
+    * checking command
+      * P50
