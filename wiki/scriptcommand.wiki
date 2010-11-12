@@ -115,5 +115,5 @@ MASTER LINK : [http://svn.eathena.ws/svn/ea/trunk/doc/script_commands.txt eathen
       * changesex
       * getexp
       * setlook / changelook
-    * Item related command
-       * P56
+      * Item related command
+        * P56
