@@ -1,0 +1,36 @@
+#summary eAthena script command overview
+
+== eAthena Script command Overview ==
+
+  * syntax
+  * loading Structure
+    * npc name with #
+    * top level command
+      * mapflag
+      * spawn permanent monster
+      * warp point
+      * npc
+        * event
+      * floating npc
+      * shop (zeny/cash)
+      * function object
+    * gid/rid
+   * item / pet script
+   * number
+   * variable
+     * structure
+       * prefix
+         * nothing (default) permanent char
+         * @ temp char
+         * $ global per
+       * name
+       * postfix
+     * scope
+       * global - global all server
+       * local - local on server
+       * npc
+       * character
+       * script scope
+       * extend
+         * permanent
+         * temporary
