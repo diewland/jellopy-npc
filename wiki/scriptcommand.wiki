@@ -70,3 +70,4 @@
       * if / while / do-while / for
       * setarray / cleararray / copyarray / deletearray
     * retrieving information
+      * page 29
