@@ -22,7 +22,7 @@
        * prefix
          * nothing (default) permanent char
          * @ temp char
-         * $ global per
+         * $ global per ***
        * name
        * postfix
      * scope
