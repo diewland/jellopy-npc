@@ -54,3 +54,19 @@
       * ...
       * Custom event
   * Scripting commands and functions
+    * basic command
+      * mes
+      * next
+      * close
+      * close2
+      * end
+      * set/setd
+      * getd/getvariableofnpc
+      * goto (evil) / jumpzero
+      * menu
+      * select / prompt / input
+      * callfunc / callsub / getarg(n)
+      * return 
+      * if / while / do-while / for
+      * setarray / cleararray / copyarray / deletearray
+    * retrieving information
