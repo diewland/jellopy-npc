@@ -1,6 +1,6 @@
-#summary eAthena script command
+#summary script command
 
-== eAthena Script command Overview ==
+== eAthena Script command==
 
   * syntax
   * loading Structure
@@ -14,23 +14,35 @@
       * floating npc
       * shop (zeny/cash)
       * function object
-    * gid/rid
-   * item / pet script
-   * number
-   * variable
-     * structure
-       * prefix
-         * nothing (default) permanent char
-         * @ temp char
-         * $ global per.............
-       * name
-       * postfix
-     * scope
-       * global - global all server
-       * local - local on server
-       * npc
-       * character
-       * script scope
-       * extend
-         * permanent
-         * temporary
+  * gid/rid
+  * item / pet script
+  * number
+  * variable
+    * structure
+      * prefix
+        * nothing (default) permanent char
+        * @ temp char
+        * $ global permanent (save\mapreg.txt)
+        * $@ global temp
+        * . npc (npc load/restart)
+        * .@ scope var (die when out of scope)
+        * # permanent local account (save\accreg.txt)
+        * ## permanet global account, unique all if have many char-server (save\account.txt)
+      * name
+      * postfix
+        * nothing - integer
+        * $ - string
+    * scope
+      * global - global all server
+      * local - local on server
+      * npc
+      * character
+      * script scope
+      * extend
+        * permanent
+        * temporary
+    * constant (db/const.txt)
+  * string
+  * arrays
+  * operator
+  * label
