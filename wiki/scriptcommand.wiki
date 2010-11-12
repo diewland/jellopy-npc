@@ -1,7 +1,9 @@
 #summary script command
 #labels Phase-Support
 
-== eAthena Script command==
+== eAthena Script command (Draft) ==
+
+MASTER LINK : [http://svn.eathena.ws/svn/ea/trunk/doc/script_commands.txt eathena-svn-script-doc]
 
   * syntax
   * loading Structure
@@ -84,4 +86,21 @@
       * skillpointcount
       * getscrate
     * checking command
-      * P50
+      * playerattached
+      * isloggedin
+      * checkweight
+      * basicskillcheck
+      * checkoption / setoption
+      * setcart / checkcart
+      * setfalcon / checkfalcon
+      * setriding / checkriding
+      * checkvending / checkchatting
+      * agitcheck / agitcheck2
+      * isnight / isday
+      * 3.1 item related command
+        * isequipped
+        * isequipprecnt
+        * checkequipecard
+        * getequipisidentify
+    * player related command
+       * 50
