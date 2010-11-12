@@ -103,4 +103,17 @@ MASTER LINK : [http://svn.eathena.ws/svn/ea/trunk/doc/script_commands.txt eathen
         * checkequipecard
         * getequipisidentify
     * player related command
-       * 50
+       * attachrid / detachrid
+       * rid2name
+       * message (pm to char)
+      * dispbottom
+      * warp / areawarp / warpparty / warpchar / warpguild / warppartner
+      * savepoint / save
+      * heal / itemheal (show heal animation, for item) / percentheal
+      * recovery (revive and restore all hp/sp in server)
+      * jobchange / jobname / eaclass / roclass / changebase / classchange
+      * changesex
+      * getexp
+      * setlook / changelook
+    * Item related command
+       * P56
