@@ -1,4 +1,5 @@
 #summary script command
+#labels Phase-Implementation
 
 == eAthena Script command==
 
