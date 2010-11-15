@@ -3,7 +3,7 @@
 
 == eAthena Script command (Draft) ==
 
-MASTER LINK : [http://svn.eathena.ws/svn/ea/trunk/doc/script_commands.txt eathena-svn-script-doc]
+MASTER LINK (ver 3.28.20091119) : [http://svn.eathena.ws/svn/ea/trunk/doc/script_commands.txt eathena-svn-script-doc]
 
   * syntax
   * loading Structure
