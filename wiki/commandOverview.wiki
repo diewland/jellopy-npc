@@ -1,7 +1,7 @@
 #summary Command Overview
 #labels Phase-Implementation
 
-== eAthena Script Command Overview ==
+== eAthena Script Command Overview (draft) ==
 
 MASTER LINK (ver 3.28.20091119) : [http://svn.eathena.ws/svn/ea/trunk/doc/script_commands.txt eathena-svn-script-doc]
 
