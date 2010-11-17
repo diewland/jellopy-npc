@@ -3,7 +3,16 @@
 
 == History ==
 
-2010/11/02 release project, move from [http://diew.multiply.com/journal/item/95 multiply]
+2010/11/02 Release project, move from [http://diew.multiply.com/journal/item/95 multiply]
+
+2010/11/17 Change project summary from
+{{{
+Syntax hilighter and Autocomplete for writing eAthena NPC-Script in EditPlus
+}}}
+to
+{{{
+Syntax hilighter for writing eAthena NPC-Script in Text Editor
+}}}
 
 == Introduction ==
 
