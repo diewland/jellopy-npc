@@ -1,5 +1,6 @@
-#summary One-sentence summary of this page.
+#summary command list
 #labels Phase-Implementation
+#sidebar sideMenu
 
 = Command List =
 
