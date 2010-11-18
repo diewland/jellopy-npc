@@ -1,0 +1,20 @@
+#summary Project History
+#labels project,history
+
+== History ==
+
+  * 2010/11/02 Release project, move from [http://diew.multiply.com/journal/item/95 multiply]
+
+  * 2010/11/17 Change project summary from
+    {{{
+    Syntax hilighter and Autocomplete for writing eAthena NPC-Script in EditPlus
+    }}}
+    to
+    {{{
+    Syntax hilighter for writing eAthena NPC-Script in Text Editor
+    }}}
+
+  * 2010/11/19 Add EmEditor Syntax file in Downloads Tab
+    * eAScript-v0.1.esy v.0.1, follows some resources below
+      * wiki_eAScript-3.28.20091119
+      * 3CeAM Trunk r493 eAr14407 TXT
