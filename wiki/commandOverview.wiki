@@ -1,5 +1,6 @@
 #summary Command Overview
 #labels Phase-Implementation
+#sidebar sideMenu
 
 == eAthena Script Command Overview (draft) ==
 
