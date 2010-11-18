@@ -1,0 +1,9 @@
+#summary Project menu
+#labels menu
+
+  * [http://code.google.com/p/jellopy-npc/wiki/index Overview]
+  * [http://code.google.com/p/jellopy-npc/wiki/history History]
+  * [http://code.google.com/p/jellopy-npc/downloads/list Download]
+  * Command
+    * [http://code.google.com/p/jellopy-npc/wiki/commandOverview Command Overall]
+    * [http://code.google.com/p/jellopy-npc/wiki/commandList Command List]
