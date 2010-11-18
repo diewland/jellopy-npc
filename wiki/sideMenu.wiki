@@ -7,4 +7,4 @@
     * [http://code.google.com/p/jellopy-npc/wiki/commandOverview Command Overall]
     * [http://code.google.com/p/jellopy-npc/wiki/commandList Command List]
   * Download
-    * [http://code.google.com/p/jellopy-npc/downloads/detail?name=eAScript-v0.1.esy&can=2&q=#makechanges EmEditor v.0.1]
+    * [http://code.google.com/p/jellopy-npc/downloads/detail?name=eAScript-v0.1.esy&can=2&q=#makechanges eAScript for EmEditor v.0.1]
