@@ -1,5 +1,6 @@
 #summary Project History
 #labels project,history
+#sidebar sideMenu
 
 == History ==
 
