@@ -1,5 +1,6 @@
 #summary project overview
 #labels Featured,Phase-Requirements
+#sidebar history
 
 == Introduction ==
 
