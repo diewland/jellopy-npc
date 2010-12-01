@@ -34,4 +34,4 @@ With color hilight and code template, you can release you npc faster!
   * NPC List 2 - http://www.dotalux.com/ro/npclist/
   * Dist Forum1 - http://www.eathena.ws/board/index.php?showtopic=260661
   * Dist Forum2 - http://www.ea.in.th/forum/index.php?showtopic=21379
-  * Calissa N++ Syntax hilighter - http://www.eathena.ws/board/index.php?showtopic=149074
+  * Calissa N++ - http://www.eathena.ws/board/index.php?showtopic=149074
